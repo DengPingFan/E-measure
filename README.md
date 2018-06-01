@@ -21,14 +21,15 @@ Matlab Example
 
 ## If our code is useful for you, please cite our paper
 
-  @inproceedings{Fan2018Enhanced,
+@inproceedings{Fan2018Enhanced,
  	  	title={Enhanced-alignment Measure for Binary Foreground Map Evaluation},
   	  	author={Deng-Ping Fan, Cheng Gong, Yang Cao, Bo Ren, Ming-Ming Cheng, Ali Borji},
   	  	booktitle={IJCAI},
   	  	year={2018},
         organization={AAAI Press}
 	}
-	@inproceedings{FanStructMeasureICCV17,
+	
+@inproceedings{FanStructMeasureICCV17,
  	  	title={Structure-measure: A New Way to Evaluate Foreground Maps},
   	  	author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
   	  	booktitle={IEEE International Conference on Computer Vision},
