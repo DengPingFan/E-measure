@@ -28,7 +28,6 @@ Matlab Example
    year={2018},
    organization={AAAI Press}
 }
-	
 @inproceedings{FanStructMeasureICCV17,
    title={Structure-measure: A New Way to Evaluate Foreground Maps},
    author={Deng-Ping Fan and Ming-Ming Cheng and Yun Liu and Tao Li and Ali Borji},
