@@ -7,7 +7,7 @@
 
 **Enhanced-alignment Measure for Binary Foreground Map Evaluation**  **IJCAI, 2018** 
 
-[[Project Page](http://dpfan.net/e-measure/)][[pdf](http://dpfan.net/wp-content/uploads/2018/05/IJCAI-Emeasure.pdf)][[bib](http://dpfan.net/wp-content/uploads/2018/05/2018EmeasureBib.txt)]
+[pdf](https://arxiv.org/abs/1805.10421)]
 
 ## Usage
 
