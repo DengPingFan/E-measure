@@ -5,7 +5,7 @@
 ## Publication
 [Deng-Ping Fan](http://dpfan.net), [GongCheng], CaoYang, RenBo, [Ming-Ming Cheng](http://mmcheng.net) and [Ali Borji](http://crcv.ucf.edu/people/faculty/Borji/)
 
-**Enhanced-alignment Measure for Binary Foreground Map Evaluation**  **IJCAI, 2018** 
+**Enhanced-alignment Measure for Binary Foreground Map Evaluation.**  **IJCAI, 2018** 
 
 [[pdf](https://arxiv.org/abs/1805.10421)]
 
