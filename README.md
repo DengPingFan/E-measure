@@ -7,7 +7,7 @@
 
 **Enhanced-alignment Measure for Binary Foreground Map Evaluation**  **IJCAI, 2018** 
 
-[pdf](https://arxiv.org/abs/1805.10421)]
+[[pdf](https://arxiv.org/abs/1805.10421)]
 
 ## Usage
 
