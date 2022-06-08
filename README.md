@@ -1,6 +1,6 @@
 # E-measure: Enhanced-alignment Measure for Binary Foreground Map Evaluation
 
-![alt tag](http://dpfan.net/wp-content/uploads/2018/04/E-measureSlide.jpg)
+![alt tag](E-measure.jpg)
 
 ## Publication
 [Deng-Ping Fan](http://dpfan.net), [GongCheng], CaoYang, RenBo, [Ming-Ming Cheng](http://mmcheng.net) and [Ali Borji](http://crcv.ucf.edu/people/faculty/Borji/)
